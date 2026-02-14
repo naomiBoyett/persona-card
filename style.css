@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: gray;
+    background-color: white;
     display: flex;
     justify-content: center;
     padding: 50px;
@@ -39,5 +39,5 @@ img {
 
 
 /* Add your own colors below based on your Vibe! */
-h1 { color: #0ec0d0; }
+h1 { color: white; }
 h3 { color: #0e9cd0; border-bottom: 2px solid #414141; }
