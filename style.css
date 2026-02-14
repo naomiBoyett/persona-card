@@ -20,6 +20,7 @@ body {
 img {
     width: 150px;
     height: 150px;
+    border: black;
     border-radius: 50%; /* Makes image circular */
     object-fit: cover; /* Prevents image stretching */
 }
