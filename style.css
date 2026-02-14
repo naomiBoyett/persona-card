@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #0e99d0;
+    background-color: white;
     display: flex;
     justify-content: center;
     padding: 50px;
@@ -8,7 +8,7 @@ body {
 
 
 .persona-card {
-    background: white;
+    background: #0ec0d0;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
